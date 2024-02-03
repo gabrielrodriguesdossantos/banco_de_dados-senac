@@ -1,0 +1,7 @@
+Update:
+Editar o conteúdo de uma linha
+
+Estrtura:
+- Update cursos(update + nome da tabela)
+set nome = 'Algoritmos'( set para selecionar a coluna + nome da coluna = alteração desejada
+where idcurso = '8';(informar a linha + a numerção dela na tabela)
